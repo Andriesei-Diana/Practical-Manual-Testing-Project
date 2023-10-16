@@ -38,17 +38,17 @@ Roles and Responsibilities:
 |  Senior QA Engineer   | Vasilica Onuta   |
 
 Entry Criteria:
-* The application is up and running and available for testing.
-* Test data and environment are correctly configured.
-* Requirements documentation is accessible.
-* Testing tools and resources are prepared and available.
+* Requirements documentation should be accessible for consultation.
+* Roles and responsibilities have been defined.
+* The test plan has been completed.
+* Initial project risks where identified and mitigated.
 
 Exit Criteria:
-* Completion of all scheduled test cases.
-* Identification, documentation, and tracking of issues and defects for resolution.
+* All scheduled test cases have been completed.
+* Issues and defects were identified, documented, tracked, and resolved.
 * Creation and review of test reports and documentation.
-* Achievement of test objectives set by stakeholders.
-* Project deadline reached.
+* The test objectives set by the project stakeholders were met.
+* The deadline has been reached.
 
 Risks:
 * Project Risks: Resource constraints, scope limitations, communication issues, budget overruns.
@@ -88,7 +88,7 @@ Risks:
 * Include test activities, results, and suggestions in the test closure report.
 
 ### 2.7. Test Monitoring and Control
-Will be done by generating periodic test status reports that will reflect the testing progress and will signal any new project risks that will be identified in order to be mitigated.
+This will be done by generating periodic test status reports that will reflect the testing progress and will signal any new project risks that will be identified in order to be mitigated.
 
 ## 3. Test Deliverables
 * [Test Plan](TestingDocumentation/Teodent Website - Test PlanEngleza.docx)
