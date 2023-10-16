@@ -97,6 +97,9 @@ This will be done by generating periodic test status reports that will reflect t
 * [Test Cases](TestingDocumentation/CycleSummaryTeodent)
 * Daily Test Summary Reports
 * [Traceability Matrix](TestingDocumentation/MatriceaTrasabilitatii)
+
+  <img src="pozeProiectTeodentJira/MatriceaTrasabilitatii.PNG" width="700" height="500">
+  
 * Test Case Results
 * [Bug Reports](TestingDocumentation/RaportDeBug-uri)
 
