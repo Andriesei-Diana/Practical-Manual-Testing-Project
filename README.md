@@ -94,6 +94,9 @@ This will be done by generating periodic test status reports that will reflect t
 ## 3. Test Deliverables
 * Test Plan
 * Test Conditions
+
+  <img src="pozeProiectTeodentJira/testCondition1.PNG" width="900" height="500">
+  
 * [Test Cases](TestingDocumentation/CycleSummaryTeodent)
 * Daily Test Summary Reports
 * [Traceability Matrix](TestingDocumentation/MatriceaTrasabilitatii)
