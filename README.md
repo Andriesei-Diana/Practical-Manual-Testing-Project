@@ -81,6 +81,7 @@ Risks:
 * Execute test cases according to the created test cycle summary.
 * Identify errors based on performed tests.
 * Generate a bug report for identified issues.
+* [Raportul de bug-uri](TestingDocumentation/RaportDeBug-uri)
 
 ### 2.6. Test Closure
 * Perform additional tests to ensure successful resolution of defects.
