@@ -91,7 +91,7 @@ Risks:
 Will be done by generating periodic test status reports that will reflect the testing progress and will signal any new project risks that will be identified in order to be mitigated.
 
 ## 3. Test Deliverables
-* Test Plan
+* [Test Plan](TestingDocumentation/Teodent Website - Test PlanEngleza.docx)
 * Test Conditions
 * Test Cases
 * Daily Test Summary Reports
