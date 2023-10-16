@@ -93,7 +93,7 @@ Will be done by generating periodic test status reports that will reflect the te
 ## 3. Test Deliverables
 * [Test Plan](TestingDocumentation/Teodent Website - Test PlanEngleza.docx)
 * Test Conditions
-* Test Cases
+* [Test Cases](TestingDocumentation/CycleSummaryTeodent)
 * Daily Test Summary Reports
 * [Traceability Matrix](TestingDocumentation/MatriceaTrasabilitatii)
 * Test Case Results
