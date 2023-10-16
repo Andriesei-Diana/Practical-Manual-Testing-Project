@@ -81,6 +81,8 @@ Risks:
 * Execute test cases according to the created test cycle summary.
 * Identify errors based on performed tests.
 * Generate a bug report for identified issues.
+  
+  <img src="pozeProiectTeodentJira/BugReport.PNG" width="400" height="500">
 
 
 ### 2.6. Test Closure
