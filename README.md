@@ -92,10 +92,10 @@ Risks:
 This will be done by generating periodic test status reports that will reflect the testing progress and will signal any new project risks that will be identified in order to be mitigated.
 
 ## 3. Test Deliverables
-* Test Plan
+* [Test Plan](TestingDocumentation/TestPlan)
 * Test Conditions
 
-  <img src="pozeProiectTeodentJira/testCondition1.PNG" width="900" height="500">
+  <img src="pozeProiectTeodentJira/testCondition1.PNG" width="600" height="400">
   
 * [Test Cases](TestingDocumentation/CycleSummaryTeodent)
 * Daily Test Summary Reports
