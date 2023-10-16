@@ -87,6 +87,7 @@ Risks:
 * Include test activities, results, and suggestions in the test closure report.
 
 ### 2.7. Test Monitoring and Control
+Will be done by generating periodic test status reports that will reflect the testing progress and will signal any new project risks that will be identified in order to be mitigated.
 
 ## 3. Test Deliverables
 * Test Plan
