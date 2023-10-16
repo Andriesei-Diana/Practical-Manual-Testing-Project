@@ -98,10 +98,13 @@ This will be done by generating periodic test status reports that will reflect t
 * Daily Test Summary Reports
 * [Traceability Matrix](TestingDocumentation/MatriceaTrasabilitatii)
 
-  <img src="pozeProiectTeodentJira/MatriceaTrasabilitatii.PNG" width="700" height="500">
+  <img src="pozeProiectTeodentJira/MatriceaTrasabilitatii.PNG" width="900" height="500">
   
 * Test Case Results
+
+  <img src="pozeProiectTeodentJira/Capture-testePass.PNG" width="900" height="500">
+  
 * [Bug Reports](TestingDocumentation/RaportDeBug-uri)
 
-   <img src="pozeProiectTeodentJira/BugReport.PNG" width="400" height="500">
+   <img src="pozeProiectTeodentJira/BugReport.PNG" width="450" height="600">
 
