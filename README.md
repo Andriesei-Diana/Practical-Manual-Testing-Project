@@ -81,10 +81,9 @@ Risks:
 * Execute test cases according to the created test cycle summary.
 * Identify errors based on performed tests.
 * Generate a bug report for identified issues.
+
+  <img src="pozeProiectTeodentJira/RaportGeneralGenerat.PNG" width="500" height="500">
   
-  <img src="pozeProiectTeodentJira/BugReport.PNG" width="400" height="500">
-
-
 ### 2.6. Test Closure
 * Perform additional tests to ensure successful resolution of defects.
 * Include test activities, results, and suggestions in the test closure report.
@@ -100,4 +99,6 @@ This will be done by generating periodic test status reports that will reflect t
 * [Traceability Matrix](TestingDocumentation/MatriceaTrasabilitatii)
 * Test Case Results
 * [Bug Reports](TestingDocumentation/RaportDeBug-uri)
+
+   <img src="pozeProiectTeodentJira/BugReport.PNG" width="400" height="500">
 
