@@ -32,8 +32,8 @@ The purpose of this test plan is to outline the testing approach for the https:/
 Roles and Responsibilities:
 |  Software Developer    |  Andrei Andrei     |
 | ----------- | ----------- |
-| Product Owner   |  Group 7 Manual Testing       |
-| Project Manager   |  IT Factory      |
+| Product Owner   |  Cosmin Ionescu       |
+| Project Manager   |  Luca Alexandru      |
 |  QA Engineer    |  Diana Andriesei    |
 |  Senior QA Engineer   | Vasilica Onuta   |
 
