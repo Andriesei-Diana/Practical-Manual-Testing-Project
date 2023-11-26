@@ -167,9 +167,9 @@ This will be done by generating periodic test status reports that will reflect t
 
    -------------------
 
-  <img src="pozeProiectTeodentJira/RaportGeneralGenerat.PNG" width="500" height="400">
+  <img src="pozeProiectTeodentJira/RaportGeneralGenerat.PNG" width="400" height="350">     <img src="pozeProiectTeodentJira/TestMetrics.PNG" width="400" height="350">
 
-I used Jira to generate a test execution report, focused on the "GUI Testing" cycle. Of the 19 tests performed, 7 failed.
-We recommend a careful and focused approach to these failures, including the following aspects: identifying the underlying causes for each failure, determining the impact of each failure on the user experience, taking the necessary measures for the prompt correction of the identified problems.
+I used Jira to generate a test execution report focused on the "GUI Testing" cycle. Of the 19 tests performed, 7 failed.
+We recommend a careful and focused approach to these failures, including the following aspects: identifying the underlying causes for each failure, determining the impact of each failure on the user experience, and taking the necessary measures for the prompt correction of the identified problems.
 Our goal is to improve quality and provide an improved experience to our users.
 
