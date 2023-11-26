@@ -150,7 +150,7 @@ This will be done by generating periodic test status reports that will reflect t
 * [Test Plan](TestingDocumentation/TestPlan)
 * Test Conditions
 
-  <img src="pozeProiectTeodentJira/testCondition1.PNG" width="600" height="400">
+  <img src="pozeProiectTeodentJira/testCondition1.PNG" width="600" height="250">
   
 * [Test Cases](TestingDocumentation/CycleSummaryTeodent)
 * Daily Test Summary Reports
