@@ -132,7 +132,6 @@ Before starting the test execution phase, the following must be prepared:
 * Record any problems or issues that arise during testing.
 * To ensure that the defects were successfully resolved, we performed additional tests.
 
-  <img src="pozeProiectTeodentJira/RaportGeneralGenerat.PNG" width="500" height="500">
   
 ### 2.6. Test Closure
 
@@ -165,4 +164,12 @@ This will be done by generating periodic test status reports that will reflect t
 * [Bug Reports](TestingDocumentation/RaportDeBug-uri)
 
    <img src="pozeProiectTeodentJira/BugReport.PNG" width="450" height="600">
+
+   -------------------
+
+  <img src="pozeProiectTeodentJira/RaportGeneralGenerat.PNG" width="500" height="400">
+
+I used Jira to generate a test execution report, focused on the "GUI Testing" cycle. Of the 19 tests performed, 7 failed.
+We recommend a careful and focused approach to these failures, including the following aspects: identifying the underlying causes for each failure, determining the impact of each failure on the user experience, taking the necessary measures for the prompt correction of the identified problems.
+Our goal is to improve quality and provide an improved experience to our users.
 
